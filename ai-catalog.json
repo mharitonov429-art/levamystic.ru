@@ -1,0 +1,196 @@
+{
+  "specVersion": "1.0",
+  "generatedAt": "2026-10-26T04:12:31Z",
+  "publisher": {
+    "name": "H2 ELEMENT Башкортостан",
+    "url": "https://levamystic.online/",
+    "description": "Водородные генераторы ВГА и масла X-ELEMENT. Дилер в Республике Башкортостан",
+    "language": "ru",
+    "region": "Республика Башкортостан",
+    "contact": {
+      "phone": "+7 917 746-42-95",
+      "telegram": "https://t.me/Ladaria7529",
+      "telegram_channel": "https://t.me/H2ELEMENT_UFA",
+      "address": "Республика Башкортостан, Дуванский район, с. Месягутово, ул. Коммунистическая, дом 26",
+      "email": null
+    }
+  },
+  "policies": {
+    "privacy": "https://levamystic.online/privacy/",
+    "usage": "Материалы можно summarise и цитировать со ссылкой на страницу-источник. Утверждения об эффекте оборудования — заявления производителя, их проверяют по протоколам испытаний."
+  },
+  "resources": {
+    "llms_txt": "https://levamystic.online/llms.txt",
+    "llms_full": "https://levamystic.online/llms-full.txt",
+    "sitemap": "https://levamystic.online/sitemap.xml",
+    "feed": "https://levamystic.online/feed.xml",
+    "articles_index": "https://levamystic.online/articles.json",
+    "webmcp": "https://levamystic.online/webmcp.js"
+  },
+  "tools": [
+    {
+      "name": "get_contacts",
+      "transport": "webmcp",
+      "script": "https://levamystic.online/webmcp.js"
+    },
+    {
+      "name": "list_products",
+      "transport": "webmcp",
+      "script": "https://levamystic.online/webmcp.js"
+    },
+    {
+      "name": "search_articles",
+      "transport": "webmcp",
+      "script": "https://levamystic.online/webmcp.js"
+    },
+    {
+      "name": "request_consultation",
+      "transport": "webmcp",
+      "script": "https://levamystic.online/webmcp.js"
+    }
+  ],
+  "entries": [
+    {
+      "type": "product",
+      "id": "vga-90-classic",
+      "name": "ВГА-90 Classic",
+      "url": "https://levamystic.online/oborudovanie/vga-90-classic/",
+      "description": "ВГА-90 Classic — компактный водородный генератор H2 ELEMENT для легковых автомобилей. Он получает смесь водорода и кислорода (газ Брауна, HHO) электролизом воды на борту автомобиля; эту смесь используют как добавку к топливовоздушной смеси двигателя.",
+      "segment": "Легковые автомобили",
+      "specs_manufacturer_data": {
+        "Потребляемая мощность": "65 Вт",
+        "Масса": "4,5 кг",
+        "Объём двигателя": "до 3,0 л"
+      },
+      "price": "по запросу",
+      "brand": "H2 ELEMENT"
+    },
+    {
+      "type": "product",
+      "id": "vga-120-pro",
+      "name": "ВГА-120 Pro",
+      "url": "https://levamystic.online/oborudovanie/vga-120-pro/",
+      "description": "ВГА-120 Pro рассчитан на коммерческий транспорт и двигатели объёмом до 6,5 л: микроавтобусы, лёгкие грузовики, сельхозтехнику. Принцип тот же — электролиз воды на борту и подача газовой смеси HHO в двигатель.",
+      "segment": "Коммерческий транспорт",
+      "specs_manufacturer_data": {
+        "Производительность": "120 л HHO/ч",
+        "Гарантия": "3 года",
+        "Объём двигателя": "до 6,5 л"
+      },
+      "price": "по запросу",
+      "brand": "H2 ELEMENT"
+    },
+    {
+      "type": "product",
+      "id": "vga-240-industrial",
+      "name": "ВГА-240 Industrial",
+      "url": "https://levamystic.online/oborudovanie/vga-240-industrial/",
+      "description": "ВГА-240 Industrial — старшая модель линейки для двигателей объёмом от 12 л: магистральные тягачи, тяжёлая спецтехника. Работает по тому же принципу электролиза воды на борту.",
+      "segment": "Спецтехника и грузовики",
+      "specs_manufacturer_data": {
+        "Назначение": "спецтехника, фуры",
+        "Объём двигателя": "от 12 л"
+      },
+      "price": "по запросу",
+      "brand": "H2 ELEMENT"
+    },
+    {
+      "type": "article",
+      "id": "zelenyy-goluboy-seryy-vodorod",
+      "name": "Зелёный, голубой и серый водород: чем отличаются",
+      "url": "https://levamystic.online/blog/zelenyy-goluboy-seryy-vodorod/",
+      "description": "Цвет водорода показывает, как его получили. Разбираем зелёный, голубой и серый водород по обзору ВИНИТИ и объясняем, почему это важно для выбросов.",
+      "published": "2026-10-26",
+      "modified": "2026-10-26",
+      "category": "Наука",
+      "tags": [
+        "зелёный водород",
+        "голубой водород",
+        "серый водород",
+        "электролиз"
+      ]
+    },
+    {
+      "type": "article",
+      "id": "vodorod-v-aviatsii-i-na-transporte",
+      "name": "Водород в авиации и на транспорте: что показывает обзор",
+      "url": "https://levamystic.online/blog/vodorod-v-aviatsii-i-na-transporte/",
+      "description": "Что научный обзор ВИНИТИ говорит о водородной авиации, морском и тяжёлом транспорте: вклад в выбросы CO2, прогнозы спроса и названные риски.",
+      "published": "2026-10-26",
+      "modified": "2026-10-26",
+      "category": "Наука",
+      "tags": [
+        "водород",
+        "авиация",
+        "морской транспорт",
+        "выбросы CO2",
+        "прогноз спроса"
+      ]
+    },
+    {
+      "type": "article",
+      "id": "kak-poluchayut-i-hranyat-vodorod",
+      "name": "Как получают и хранят водород: от электролиза до баллонов",
+      "url": "https://levamystic.online/blog/kak-poluchayut-i-hranyat-vodorod/",
+      "description": "Три способа получения водорода, три способа хранения и три способа доставки по научному обзору ВИНИТИ. Что такое электролиз воды и почему он требует энергии.",
+      "published": "2026-10-26",
+      "modified": "2026-10-26",
+      "category": "Наука",
+      "tags": [
+        "водород",
+        "электролиз",
+        "хранение водорода",
+        "паровая конверсия метана"
+      ]
+    },
+    {
+      "type": "article",
+      "id": "hho-generator-gaz-brauna",
+      "name": "HHO-генератор и газ Брауна: как устроен и что спросить у продавца",
+      "url": "https://levamystic.online/blog/hho-generator-gaz-brauna/",
+      "description": "Как работает бортовой HHO-генератор, что такое газ Брауна, почему важен энергобаланс и какие вопросы задать продавцу, чтобы проверить заявленный эффект.",
+      "published": "2026-10-26",
+      "modified": "2026-10-26",
+      "category": "Практика",
+      "tags": [
+        "HHO",
+        "газ Брауна",
+        "водородный генератор",
+        "ВГА",
+        "электролиз"
+      ]
+    },
+    {
+      "type": "article",
+      "id": "h21-vodorodnaya-initsiativa",
+      "name": "Водородная инициатива H21: что это и зачем её создали",
+      "url": "https://levamystic.online/blog/h21-vodorodnaya-initsiativa/",
+      "description": "Что такое Водородная инициатива H21 Министерской конференции по чистой энергии, кто в ней участвует и какие задачи ставит рабочий план на 2021–2022 годы.",
+      "published": "2026-10-26",
+      "modified": "2026-10-26",
+      "category": "Наука",
+      "tags": [
+        "водород",
+        "H21",
+        "чистая энергия",
+        "политика"
+      ]
+    },
+    {
+      "type": "article",
+      "id": "gde-ispolzuyut-vodorod",
+      "name": "Где используют водород: транспорт, промышленность, тепло",
+      "url": "https://levamystic.online/blog/gde-ispolzuyut-vodorod/",
+      "description": "Какие сферы применения водорода называет научный обзор ВИНИТИ: топливные элементы и сжигание, химия, металлургия, котлы и двигатели, энергетика, космос.",
+      "published": "2026-10-26",
+      "modified": "2026-10-26",
+      "category": "Применение",
+      "tags": [
+        "водород",
+        "котлы",
+        "топливные элементы",
+        "применение водорода"
+      ]
+    }
+  ]
+}
